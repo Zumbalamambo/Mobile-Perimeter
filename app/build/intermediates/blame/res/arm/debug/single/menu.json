@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Irina K\\Documents\\_School\\ECE 1778 Mobile\\_PF21\\mobileperimeter\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\start_screen.xml",
+        "source": "C:\\Users\\Irina K\\Documents\\_School\\ECE 1778 Mobile\\_PF21\\mobileperimeter\\app\\src\\main\\res\\menu\\start_screen.xml"
+    },
+    {
+        "merged": "D:\\mobileperimeter\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\start_screen.xml",
+        "source": "D:\\mobileperimeter\\app\\src\\main\\res\\menu\\start_screen.xml"
+    },
+    {
+        "merged": "D:\\mobileperimeter\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\menu_pose_estimation.xml",
+        "source": "D:\\mobileperimeter\\app\\src\\main\\res\\menu\\menu_pose_estimation.xml"
+    },
+    {
+        "merged": "D:\\mobileperimeter\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\main.xml",
+        "source": "D:\\mobileperimeter\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Irina K\\Documents\\_School\\ECE 1778 Mobile\\_PF21\\mobileperimeter\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\menu_pose_estimation.xml",
+        "source": "C:\\Users\\Irina K\\Documents\\_School\\ECE 1778 Mobile\\_PF21\\mobileperimeter\\app\\src\\main\\res\\menu\\menu_pose_estimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Irina K\\Documents\\_School\\ECE 1778 Mobile\\_PF21\\mobileperimeter\\app\\build\\intermediates\\res\\merged\\arm\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Irina K\\Documents\\_School\\ECE 1778 Mobile\\_PF21\\mobileperimeter\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

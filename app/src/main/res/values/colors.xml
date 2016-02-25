@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#34282C</color>
+	<color name="slate_grey">#556270</color>
+	<color name="pacific_blue">#4ECDC4</color>
+	<color name="apple_yellow">#C7F464</color>
+	<color name="cheery_pink">#FF6B6B</color>
+	<color name="dusky_pink">#C44D58</color>
+	<color name="teal">#26969E</color>
+	<color name="eggshell">#E6DEDC</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\mobileperimeter\app\build\intermediates\exploded-aar\mobileperimeter\opencv-java\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="905aadf231d2de287b9e19a2198bc9c5474339a2">
+        <dex dex="D:\mobileperimeter\app\build\intermediates\pre-dexed\arm\debug\mobileperimeter-opencv-java-unspecified_694795953a540af10c62f86ce38ea59e78801251.jar" />
+    </item>
+    <item
+        jar="D:\mobileperimeter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\mobileperimeter\app\build\intermediates\pre-dexed\arm\debug\internal_impl-23.0.0_d4d606721a3e4dcc623e48a893e3fca1ec088b6e.jar" />
+    </item>
+    <item
+        jar="D:\android\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\mobileperimeter\app\build\intermediates\pre-dexed\arm\debug\support-annotations-23.0.0_c95d1d198a852b73d4d3dc742e8d2b99406f9806.jar" />
+    </item>
+    <item
+        jar="D:\mobileperimeter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\mobileperimeter\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-v4-23.0.0_583d06aa83cca34142b95a810dbbb72b32cb7b6f.jar" />
+    </item>
+
+</items>

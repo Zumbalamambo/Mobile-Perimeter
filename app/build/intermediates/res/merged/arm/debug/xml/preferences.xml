@@ -1,0 +1,85 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" >
+
+    <EditTextPreference
+        android:defaultValue="123456"
+        android:key="username_key"
+        android:numeric="integer"
+        android:summary="@string/pref_summary_username_key"
+        android:title="@string/pref_title_username_key" >
+    </EditTextPreference>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="right_or_left_eye"
+        android:summary="@string/pref_summary_right_or_left_eye"
+        android:title="@string/pref_title_right_or_left_eye" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="full_or_abbreviated_test"
+        android:title="@string/pref_title_full_or_abbreviated_test" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="dark_or_lit_room"
+        android:title="@string/pref_title_dark_or_lit_room" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="debug_mode"
+        android:title="@string/pref_title_debug_mode" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="head_tracking_mode"
+        android:title="@string/pref_title_head_tracking_mode" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:dependency="head_tracking_mode"
+        android:key="calibration_mode"
+        android:summary="@string/pref_summary_calibrate_mode"
+        android:title="@string/pref_title_calibrate_mode" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:dependency="head_tracking_mode"
+        android:key="use_estimator_mode"
+        android:summary="@string/pref_summary_use_estimator_mode"
+        android:title="@string/pref_title_use_estimator_mode" />
+
+    <EditTextPreference
+        android:defaultValue="4"
+        android:key="box_width"
+        android:numeric="integer"
+        android:summary="@string/pref_summary_box_width"
+        android:title="@string/pref_title_box_width" >
+    </EditTextPreference>
+    <EditTextPreference
+        android:defaultValue="3"
+        android:key="box_height"
+        android:numeric="integer"
+        android:summary="@string/pref_summary_box_height"
+        android:title="@string/pref_title_box_height" >
+    </EditTextPreference>
+    <EditTextPreference
+        android:defaultValue="10"
+        android:key="box_size"
+        android:numeric="integer"
+        android:summary="@string/pref_summary_box_size"
+        android:title="@string/pref_title_box_size" >
+    </EditTextPreference>
+    <EditTextPreference
+        android:defaultValue="5"
+        android:key="test_speed"
+        android:numeric="integer"
+        android:summary="@string/pref_summary_test_speed"
+        android:title="@string/pref_title_test_speed" >
+    </EditTextPreference>
+    <EditTextPreference
+        android:defaultValue="16"
+        android:key="starting_db"
+        android:numeric="integer"
+        android:summary="@string/pref_summary_starting_db"
+        android:title="@string/pref_title_starting_db" >
+    </EditTextPreference>
+   <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="modified_demo"
+        android:title="@string/pref_title_modified_demo" />
+</PreferenceScreen>
